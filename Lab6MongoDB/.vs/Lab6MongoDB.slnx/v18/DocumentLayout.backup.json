@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\VIPKS\\Lab6MongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE524A8-396D-4C5E-A3F0-6111FAB9C8AF}|Lab6MongoDB\\Lab6MongoDB.csproj|c:\\temp\\ispp31\\vipks\\lab6mongodb\\lab6mongodb\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE524A8-396D-4C5E-A3F0-6111FAB9C8AF}|Lab6MongoDB\\Lab6MongoDB.csproj|solutionrelative:lab6mongodb\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE524A8-396D-4C5E-A3F0-6111FAB9C8AF}|Lab6MongoDB\\Lab6MongoDB.csproj|c:\\temp\\ispp31\\vipks\\lab6mongodb\\lab6mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE524A8-396D-4C5E-A3F0-6111FAB9C8AF}|Lab6MongoDB\\Lab6MongoDB.csproj|solutionrelative:lab6mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE524A8-396D-4C5E-A3F0-6111FAB9C8AF}|Lab6MongoDB\\Lab6MongoDB.csproj|c:\\temp\\ispp31\\vipks\\lab6mongodb\\lab6mongodb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE524A8-396D-4C5E-A3F0-6111FAB9C8AF}|Lab6MongoDB\\Lab6MongoDB.csproj|solutionrelative:lab6mongodb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\VIPKS\\Lab6MongoDB\\Lab6MongoDB\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Lab6MongoDB\\LibraryContext.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\VIPKS\\Lab6MongoDB\\Lab6MongoDB\\LibraryContext.cs",
+              "RelativeToolTip": "Lab6MongoDB\\LibraryContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwC0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T07:41:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\VIPKS\\Lab6MongoDB\\Lab6MongoDB\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Lab6MongoDB\\Models\\Book.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\VIPKS\\Lab6MongoDB\\Lab6MongoDB\\Models\\Book.cs",
+              "RelativeToolTip": "Lab6MongoDB\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T07:39:05.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\VIPKS\\Lab6MongoDB\\Lab6MongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6MongoDB\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\VIPKS\\Lab6MongoDB\\Lab6MongoDB\\Program.cs",
+              "RelativeToolTip": "Lab6MongoDB\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T07:34:15.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
