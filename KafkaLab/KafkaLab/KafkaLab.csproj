@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-KafkaLab-c61d16c1-5058-4b33-9072-f591001ed110</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.16.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.14" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\VIPKS\\PractWork6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F70F660-2A46-7CBA-7826-270F066AC706}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\vipks\\practwork6\\practwork6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F70F660-2A46-7CBA-7826-270F066AC706}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F70F660-2A46-7CBA-7826-270F066AC706}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\vipks\\practwork6\\practwork6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F70F660-2A46-7CBA-7826-270F066AC706}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 233,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\VIPKS\\PractWork6\\PractWork6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PractWork6\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\VIPKS\\PractWork6\\PractWork6\\MainWindow.xaml",
+              "RelativeToolTip": "PractWork6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-16T10:49:02.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\VIPKS\\PractWork6\\PractWork6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PractWork6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\VIPKS\\PractWork6\\PractWork6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PractWork6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T10:49:00.875Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
